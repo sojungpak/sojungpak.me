@@ -411,26 +411,26 @@ p27 {
 #instagram:hover {
     position: relative;
     left: 509px;
-    content: url('/Photos/ighover.png');
+    content: url('Photos/ighover.png');
 }
 
 #linkedin:hover {
     position: relative;
     left: 560px;
-    content: url('/Photos/linkedinhover.png');
+    content: url('Photos/linkedinhover.png');
 }
 
 #medium:hover {
     position: relative;
     left: 610px;
     top: -5px;
-    content: url('/Photos/mediumhover.png');
+    content: url('Photos/mediumhover.png');
 }
 
 #mail:hover {
     position: relative;
     left: 660px;
-    content: url('/Photos/mailhover.png');
+    content: url('Photos/mailhover.png');
 }
 
 #Header_Play {
