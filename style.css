@@ -1185,7 +1185,7 @@ iframe {
 
 #Body_N {
     position: relative;
-    margin-top: -200px;
+    margin-top: -50px;
     padding-bottom: 100px;
 }
 
@@ -1194,20 +1194,20 @@ iframe {
     font-weight: 700;
     color:#6CA7B7;
     position: relative;
-    left: 60%;
+    left: 57%;
 }
 
 #nom2 {
     font-size: 16px; 
     font-weight: 500;
     position: relative;
-    left: 50%;
+    left: 48%;
     top: -20px;
 }
 
 #nom3 {
     position: relative;
-    left: 45%;
+    left: 42%;
 }
 
 
